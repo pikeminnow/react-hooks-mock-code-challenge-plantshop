@@ -41,6 +41,54 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "interesting",
+      "image": "https://www.towergarden.com/content/dam/towergarden/blog-post-images/2016/04/passionflower.jpg",
+      "price": "420",
+      "id": 8
+    },
+    {
+      "name": "interesting",
+      "image": "https://www.towergarden.com/content/dam/towergarden/blog-post-images/2016/04/passionflower.jpg",
+      "price": "420",
+      "id": 9
+    },
+    {
+      "name": "interesting",
+      "image": "https://www.towergarden.com/content/dam/towergarden/blog-post-images/2016/04/passionflower.jpg",
+      "price": "420",
+      "id": 10
+    },
+    {
+      "name": "interesting",
+      "image": "https://www.towergarden.com/content/dam/towergarden/blog-post-images/2016/04/passionflower.jpg",
+      "price": "420",
+      "id": 11
+    },
+    {
+      "name": "interesting",
+      "image": "https://www.towergarden.com/content/dam/towergarden/blog-post-images/2016/04/passionflower.jpg",
+      "price": "420",
+      "id": 12
+    },
+    {
+      "name": "interesting",
+      "image": "https://www.towergarden.com/content/dam/towergarden/blog-post-images/2016/04/passionflower.jpg",
+      "price": "420",
+      "id": 13
+    },
+    {
+      "name": "interesting",
+      "image": "https://www.towergarden.com/content/dam/towergarden/blog-post-images/2016/04/passionflower.jpg",
+      "price": "420",
+      "id": 14
+    },
+    {
+      "name": "interesting",
+      "image": "https://www.towergarden.com/content/dam/towergarden/blog-post-images/2016/04/passionflower.jpg",
+      "price": "420",
+      "id": 15
     }
   ]
 }
