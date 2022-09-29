@@ -1,11 +1,11 @@
 import React from "react";
 
-function PlantCard() {
+function PlantCard({plantDatum}) {
   return (
     <li className="card">
-      <img src={"https://via.placeholder.com/400"} alt={"plant name"} />
-      <h4>{"plant name"}</h4>
-      <p>Price: {"plant price"}</p>
+      <img src={plantDatum.image} alt={plantDatum.name} />
+      <h4>{plantDatum.name}</h4>
+      <p>Price: {plantDatum.price}</p>
       {true ? (
         <button className="primary">In Stock</button>
       ) : (
