@@ -89,6 +89,12 @@
       "image": "https://www.towergarden.com/content/dam/towergarden/blog-post-images/2016/04/passionflower.jpg",
       "price": "420",
       "id": 15
+    },
+    {
+      "name": "maddie plant",
+      "image": "https://freshpatio.com/wp-content/uploads/2021/04/hanging-strawberry-basket.jpg",
+      "price": "1717171",
+      "id": 16
     }
   ]
 }
